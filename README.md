@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hVpwZGh/main-image.png)
 
-### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
+## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
