@@ -3,8 +3,10 @@
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [vk]: https://vk.com/vvarganovv
+[telegram]: https://web.telegram.org/@vvarganovv
 
 <br/>
 <br/>
