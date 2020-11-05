@@ -1,4 +1,4 @@
-![](https://i.ibb.co/hVpwZGh/main-image.png)
+
 
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
